@@ -1,6 +1,8 @@
 # Intro-to-Python-Projects
 
-The two projects, "Two Earbuds Problem" and "Subway Reviews Problem," were mandatory assignments for the "Intro to Python" course offered by Cornell MSBA Business Analytics program, providing me with the essential skills needed to understand Python operations, syntax, and problem-solving techniques.
+The two projects, "Two Earbuds Problem" and "Subway Reviews Problem," were mandatory assignments for the "Intro to Python" course offered by Cornell MSBA Business Analytics program.
+
+Both projects provided me with the essential skills needed to understand Python operations, syntax, and problem-solving techniques.
 
 ## Two Earbuds Problem
 
