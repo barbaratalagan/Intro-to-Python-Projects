@@ -12,4 +12,4 @@ This team project focuses on finding the optimal amount of earbuds a company sho
 
 This solo project focuses on analyzing Yelp reviews for the fast food company Subway. By applying data analysis techniques and visualization methods, the project aims to provide insights into customer opinions and trends, helping the sample board of directors make informed decisions.
 
-**Packages Used** NumPy, Pandas, Matplotlib, Seaborn
+**Packages Used:** NumPy, Pandas, Matplotlib, Seaborn
